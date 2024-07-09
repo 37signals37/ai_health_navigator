@@ -27,6 +27,6 @@ SMTP Protocol: For sending email notifications to healthcare providers.
 # License
 
 # Contact Me
-For any inquiries or interest, please connect with Eric Brunner on [LinkedIn](www.linkedin.com/in/eric-brunner-18997b47)
+For any inquiries or interest, please connect with Eric Brunner on [LinkedIn](https://www.linkedin.com/in/eric-brunner-18997b47)
 
 
