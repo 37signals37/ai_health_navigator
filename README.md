@@ -1,5 +1,5 @@
 # AI Health Navigator
-Uses chatgpt's api backend to review ehr files and patient history and then answers questions and searches for clinical trials for patient
+Uses OpenAI's api backend to review ehr files and patient history and then answers questions and searches for clinical trials for patient
 
 # Project Overview
 This project is designed to securely anonymize and format electronic health records (EHR) for interaction with OpenAI's API, specifically for use with the ChatGPT model. The primary aim is to facilitate a safe and efficient way for healthcare providers and researchers to gain insights from EHR data using advanced AI-driven queries and analysis.
@@ -27,6 +27,6 @@ SMTP Protocol: For sending email notifications to healthcare providers.
 # License
 
 # Contact Me
-For any inquiries or interest, [please connect with Eric Brunner on LinkedIn](www.linkedin.com/in/eric-brunner-18997b47)
+For any inquiries or interest, please connect with Eric Brunner on [LinkedIn](www.linkedin.com/in/eric-brunner-18997b47)
 
 
