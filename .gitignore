@@ -1,0 +1,4 @@
+# Ignore specific files
+config.json
+embeddings_text-embedding-3-large.csv
+embeddings_text-embedding-ada-002.csv
